@@ -1,0 +1,20 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<html>
+<head>
+    <title>手写框架篇</title>
+</head>
+<body>
+<p>
+    这是手写的SSM框架
+</p>
+
+<form action="hello" method="post">
+
+    <input type="text" name="userName">
+    <input type="text" name="passWord">
+    <input type="submit" value="提交">
+123
+</form>
+
+</body>
+</html>
